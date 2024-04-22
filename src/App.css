@@ -1,0 +1,7 @@
+@font-face {
+  font-family: HelveticaNowText;
+  src: url("./assets/Fonts/HelveticaNowText-Regular.woff2");
+}
+* {
+  font-family: HelveticaNowText;
+}
